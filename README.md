@@ -19,7 +19,7 @@ blast_to_mutation_table.pl  <HIV1B_shortRT.fasta>  <HIV1B_test.blast>
 (5)	Run PAPNC_diversity.pl on the mutation table file to calculate diversity
 PAPNC_diversity.pl   <HIV1B_shortRT_mutation_table>
 
-An example mutation_table input file is included in this depository. The file is a tab delimited text file. Notice that positions 449 to 458 have very large diversities. Those are random primer IDs, not a natural fragment of HIV1 (Boltz VF, et. al., Retrovirology. 2016 Dec 20;13(1):87).
+An example_mutation_table_input file is included in this depository. The file is a tab delimited text file. Notice that positions 449 to 458 have very large diversities. Those are random primer IDs, not a natural fragment of HIV1 (Boltz VF, et. al., Retrovirology. 2016 Dec 20;13(1):87).
 
 Please cite the following paper if you use these scripts:
 Shao W, Kearney MF, Boltz VF, Spindler JE, Mellors JW, Maldarelli F, Coffin JM. 2014. PAPNC, a novel method to calculate nucleotide diversity from large scale next generation sequencing data. J Virol Methods, 203:73-80.
