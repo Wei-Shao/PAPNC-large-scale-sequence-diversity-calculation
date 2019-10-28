@@ -3,7 +3,7 @@
 # blast_to_mutation_table.pl
 #
 # Wei Shao, Ph.D.
-# Advanced Biomedical Computing Center
+# Advanced Biomedical Computing Science/HIV Replication and Diversity Programm
 # Frederick National Laboratory for Cancer Research
 # Frederick, Maryland, USA
 #
