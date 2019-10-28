@@ -2,6 +2,7 @@
 This tool is for the calculation of large scale sequences generated with next generation sequencing methods. It was created for HIV sequences. However, it can be used for other sequences too. 
 -------------------------------------------------------------------
 Steps to calculate sequence diversities with PAPNC_diverity.pl 
+
 (1)	Select a reference sequence and name it, for example, HIV1B_shortRT.fasta. The reference sequence must be the same length of  sample sequences (e.g. HIV1B_test.fasta).
 
 (2)	Build a query database with the reference sequence with the name, for example, HIV1B_shortRTDB.
