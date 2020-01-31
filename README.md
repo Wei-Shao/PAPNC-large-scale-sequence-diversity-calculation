@@ -1,4 +1,4 @@
-# PAPNC-large-scale-sequence-diversity-calcution
+# PAPNC-large-scale-sequence-diversity-calculation
 This tool is for the calculation of large scale sequences generated with next generation sequencing methods. It was created for HIV sequences. However, it can be used for other sequences too. 
 -------------------------------------------------------------------
 Steps to calculate sequence diversities with PAPNC_diverity.pl:
